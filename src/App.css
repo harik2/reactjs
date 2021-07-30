@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.valide {
+  background-color: #5BE881;
+}
+.rejected {
+  background-color: #FF0000;
+}
+.on-validation {
+  background-color: #FDB64D;
+}
